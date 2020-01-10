@@ -7035,7 +7035,7 @@ Created using IcoMoon - icomoon.io
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(55, 140, 63, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), #0354fc7d);
+  background:linear-gradient(0deg, rgba(44, 44, 44, 0.2), #0354fc26);
   /* Standard syntax */
 }
 
@@ -7243,7 +7243,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-instagram:hover i {
-  color: #405de6;
+  color: #f48024;
 }
 
 /* Credit Style */
